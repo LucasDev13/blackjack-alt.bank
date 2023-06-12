@@ -1,0 +1,1 @@
+## Projeto desenvolvido para a vaga de desenvolvedor oferecida pela empresa alt.bank
